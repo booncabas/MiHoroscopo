@@ -124,7 +124,8 @@ function validar_fecha($mes, $dia) {
 //Escorpión (24 de octubre-22 de noviembre) 
 //Sagitario (23 de noviembre-21 de diciembre) 
 //Capricornio (22 de diciembre-20 de enero)
-
+ 
+// just addin some test for git
 
 
 
